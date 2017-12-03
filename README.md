@@ -10,6 +10,6 @@ Please click to see [module 3 solution](https://suyang0419.github.io/coursera_wb
 
 Please click to see [module 4 solution](https://suyang0419.github.io/coursera_wbd/module4sol/)
 
-Please click to see [module 4 solution](https://suyang0419.github.io/coursera_wbd/module5sol/)
+Please click to see [module 5 solution](https://suyang0419.github.io/coursera_wbd/module5sol/)
 
 :boom: :boom: :boom:
